@@ -1,0 +1,19 @@
+.card{
+    width: auto;
+    height: 1440px;
+    font-size: 50px;
+    background-color: lightgoldenrodyellow;
+}
+
+.title{
+    font-size: 100px;
+    color: darkgreen;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid yellowgreen;
+    margin: 0px;
+}
+
+.recipes{
+    color: black;
+}
